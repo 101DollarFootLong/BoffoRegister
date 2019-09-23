@@ -1,2 +1,3 @@
-# boffo_register_v2
-Boffo Register restart after Great Git Catastrophe of 2017
+# boffo_register
+
+This is a cash register built from the ground up using mainly Java and MySQL
